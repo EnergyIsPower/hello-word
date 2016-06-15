@@ -1,2 +1,5 @@
 # hello-word
-Learn to use GitHub
+
+Hi humans!
+
+I am learning Web code now...
